@@ -1,8 +1,6 @@
-- 👋 Hello, my name is Iman Salehi @j-imsa
-- 👀 I'm interested in coding, ACM problems, ML, startups, and so on.
-- 🌱 I'm now learning Java, Python, ML, React, and other technologies.
-- 💞️ I'd want to collaborate on some fun and interesting projects with you!
-- 📫 How can you contact me? Please contact me at cse.isalehi@gmail.com
+- Iman Salehi @j-imsa
+- Senior software developer with over 7 years of experience in full-stack development and leading product cycles from conception to completion. Leading a team of 5–15 members through 5+ products launched at a recent experience in a high-growth technology startup.
+- Contact me at cse.isalehi[AT]gmail{DOT}com
 
 <!---
 j-imsa/j-imsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
