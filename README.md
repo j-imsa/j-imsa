@@ -1,5 +1,5 @@
 - Iman Salehi @j-imsa
-- Senior software developer with over 7 years of experience in full-stack development and leading product cycles from conception to completion. Leading a team of 5–15 members through 5+ products launched at a recent experience in a high-growth technology startup.
+- Senior java developer with over 7 years of experience in full-stack development and leading product cycles from conception to completion. Leading a team of 5–15 members through 5+ products launched at a recent experience in a high-growth technology startup.
 - Contact me at cse.isalehi[AT]gmail{DOT}com
 
 <!---
