@@ -11,5 +11,6 @@
 
 ## 🌐 Socials
 
+[![Website](https://img.shields.io/badge/Website-jimsa.netlify.app-blue?logo=google-chrome&logoColor=white)](https://jimsa.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jimsa) 
 
