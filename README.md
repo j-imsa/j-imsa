@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Iman Salehi @j-imsa<br>🤝 Senior Java developer with over 8 years of experience in full-stack Java development<br>🌱 Leading product cycles from conception to completion<br>👯 Leading teams of 5–15 members through 5+ products <br>⚡ Ask me about Java, JVM, System Design, and Algorithms<br>💬 Contact me at “cse.isalehi@gmail.com”<br><br>
+🔭 Iman Salehi @j-imsa<br>🤝 Senior Java developer with over 10 years of experience in full-stack Java development<br>🌱 Leading product cycles from conception to completion<br>👯 Leading teams of 5–15 members through 5+ products <br>⚡ Ask me about Java, JVM, System Design, and Algorithms<br>💬 Contact me at “cse.isalehi@gmail.com”<br><br>
 <!-- [![](https://visitcount.itsvg.in/api?id=j-imsa&icon=0&color=0)](https://visitcount.itsvg.in)<br><br> -->
 
 # 💻 Tech Stack
